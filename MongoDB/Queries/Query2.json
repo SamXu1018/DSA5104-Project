@@ -1,0 +1,70 @@
+[{
+  "_id": {
+    "$oid": "6550bacc00de12b981d17d76"
+  },
+  "name": "Rental unit in Singapore · 1 bedroom · 1 bed · 1 private bath",
+  "review_scores_rating": 5
+},
+{
+  "_id": {
+    "$oid": "6550bacc00de12b981d17d96"
+  },
+  "name": "Loft in Singapore · ★5.0 · 1 bedroom · 1 bed · 1.5 baths",
+  "review_scores_rating": 5
+},
+{
+  "_id": {
+    "$oid": "6550bacc00de12b981d17d9e"
+  },
+  "name": "Rental unit in Singapore · 1 bedroom · 1 bed · 1 private bath",
+  "review_scores_rating": 5
+},
+{
+  "_id": {
+    "$oid": "6550bacc00de12b981d17d72"
+  },
+  "name": "Rental unit in Singapore · 1 bedroom · 1 bed · 1 private bath",
+  "review_scores_rating": 5
+},
+{
+  "_id": {
+    "$oid": "6550bacc00de12b981d17d8d"
+  },
+  "name": "Condo in Singapore · ★5.0 · 1 bedroom · 1 bed · Shared half-bath",
+  "review_scores_rating": 5
+},
+{
+  "_id": {
+    "$oid": "6550bacc00de12b981d17d79"
+  },
+  "name": "Rental unit in Singapore · ★5.0 · 1 bedroom · 1 bed · 1 private bath",
+  "review_scores_rating": 5
+},
+{
+  "_id": {
+    "$oid": "6550bacc00de12b981d17da0"
+  },
+  "name": "Rental unit in Singapore · 1 bedroom · 1 bed · 2 shared baths",
+  "review_scores_rating": 5
+},
+{
+  "_id": {
+    "$oid": "6550bacc00de12b981d17d9f"
+  },
+  "name": "Rental unit in Singapore · ★5.0 · 1 bedroom · 1 bed · 1 shared bath",
+  "review_scores_rating": 5
+},
+{
+  "_id": {
+    "$oid": "6550bacc00de12b981d17d9c"
+  },
+  "name": "Condo in Singapore · 1 bedroom · 1 bed · 1 private bath",
+  "review_scores_rating": 5
+},
+{
+  "_id": {
+    "$oid": "6550bacc00de12b981d17d71"
+  },
+  "name": "Condo in Singapore · 1 bedroom · 2 beds · 1 private bath",
+  "review_scores_rating": 5
+}]

@@ -1,0 +1,26 @@
+[{
+  "_id": {
+    "user_id": 460161800,
+    "username": "Jason Law",
+    "transaction": [
+      {
+        "_id": {
+          "$oid": "654f2b8cf9dfc2853274f8ed"
+        },
+        "transaction_id": 73563,
+        "user_id": 460161800,
+        "listing_id": {
+          "$numberLong": "914349804469559912"
+        },
+        "booking_date": "1/25/2023",
+        "check_in_date": "3/11/2023",
+        "check_out_date": "4/6/2023",
+        "nights": 26,
+        "price_per_night": 383.69,
+        "total_price": 9975.94,
+        "payment_method": "Visa",
+        "status": "Pending"
+      }
+    ]
+  }
+}]
