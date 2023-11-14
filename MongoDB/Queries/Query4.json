@@ -4,7 +4,7 @@
   "host_information": [
     {
       "_id": {
-        "$oid": "6550ba9a00de12b981d0e086"
+        "$oid": "6552503c7238d3e85d7eacf7"
       },
       "host_id": 107434423,
       "host_name": "Blueground",
@@ -14,14 +14,15 @@
       "host_location": "New York, NY",
       "host_about": "We’re Blueground, a global proptech company with several thousand move-in-ready apartments in a growing number of major cities around the world. With flexible terms and homes in vibrant, centrally based neighborhoods, you’ll feel at home and free to roam for as long as you want — a month, a year, or longer. \n\nEach apartment is thoughtfully designed with exclusive furnishings, fully equipped kitchens, and incredible amenities – making every day a five-star experience. From day one, you’ll enjoy high-speed Wi-Fi, premium linens, and smart home entertainment. Plus, access to pools, gyms, and outdoor spaces in select buildings.\n\nWhy stress over your apartment? We provide a hassle-free alternative — a consistent, quality guest experience that starts even before you arrive. Because we let you book our most up-to-date apartment listings online, confirm with a click, pay securely, and check in easily. \n\nEven better? You can enhance your stay with car rentals, grocery delivery, laundry services, and more through our special partnerships. \n\nDuring your stay\nUpon arrival, you’ll either be greeted personally by a Blueground team member or given self-check-in instructions. The entire apartment is yours! You’ll enjoy reliable support via email, phone, and our Guest App, where you can request everything from a home cleaning to extra towels. \n\nWe’ll share all details upon confirmation of your stay.",
       "host_response_time": "within an hour",
-      "host_response_rate": 1,
-      "host_acceptance_rate": 0.97,
-      "host_is_superhost": false,
+      "host_is_superhost": 0,
       "host_neighbourhood": "Cambridge",
       "host_listings_count": 4559,
-      "host_verifications": "['email', 'phone', 'work_email']",
-      "host_identity_verified": true,
-      "city": "New York"
+      "host_identity_verified": 1,
+      "host_response_rate": 1,
+      "host_acceptance_rate": 0.97,
+      "email": 1,
+      "phone": 1,
+      "work_email": 1
     }
   ]
 }]

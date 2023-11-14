@@ -1,69 +1,69 @@
 [{
   "_id": {
-    "$oid": "6550bacc00de12b981d17d76"
+    "$oid": "65537d5720a377489292b99c"
   },
   "name": "Rental unit in Singapore · 1 bedroom · 1 bed · 1 private bath",
   "review_scores_rating": 5
 },
 {
   "_id": {
-    "$oid": "6550bacc00de12b981d17d96"
+    "$oid": "65537d5720a377489292b9bc"
   },
   "name": "Loft in Singapore · ★5.0 · 1 bedroom · 1 bed · 1.5 baths",
   "review_scores_rating": 5
 },
 {
   "_id": {
-    "$oid": "6550bacc00de12b981d17d9e"
+    "$oid": "65537d5720a377489292b9c4"
   },
   "name": "Rental unit in Singapore · 1 bedroom · 1 bed · 1 private bath",
   "review_scores_rating": 5
 },
 {
   "_id": {
-    "$oid": "6550bacc00de12b981d17d72"
+    "$oid": "65537d5720a377489292b998"
   },
   "name": "Rental unit in Singapore · 1 bedroom · 1 bed · 1 private bath",
   "review_scores_rating": 5
 },
 {
   "_id": {
-    "$oid": "6550bacc00de12b981d17d8d"
+    "$oid": "65537d5720a377489292b9b3"
   },
   "name": "Condo in Singapore · ★5.0 · 1 bedroom · 1 bed · Shared half-bath",
   "review_scores_rating": 5
 },
 {
   "_id": {
-    "$oid": "6550bacc00de12b981d17d79"
+    "$oid": "65537d5720a377489292b99f"
   },
   "name": "Rental unit in Singapore · ★5.0 · 1 bedroom · 1 bed · 1 private bath",
   "review_scores_rating": 5
 },
 {
   "_id": {
-    "$oid": "6550bacc00de12b981d17da0"
+    "$oid": "65537d5720a377489292b9c6"
   },
   "name": "Rental unit in Singapore · 1 bedroom · 1 bed · 2 shared baths",
   "review_scores_rating": 5
 },
 {
   "_id": {
-    "$oid": "6550bacc00de12b981d17d9f"
+    "$oid": "65537d5720a377489292b9c5"
   },
   "name": "Rental unit in Singapore · ★5.0 · 1 bedroom · 1 bed · 1 shared bath",
   "review_scores_rating": 5
 },
 {
   "_id": {
-    "$oid": "6550bacc00de12b981d17d9c"
+    "$oid": "65537d5720a377489292b9c2"
   },
   "name": "Condo in Singapore · 1 bedroom · 1 bed · 1 private bath",
   "review_scores_rating": 5
 },
 {
   "_id": {
-    "$oid": "6550bacc00de12b981d17d71"
+    "$oid": "65537d5720a377489292b997"
   },
   "name": "Condo in Singapore · 1 bedroom · 2 beds · 1 private bath",
   "review_scores_rating": 5
