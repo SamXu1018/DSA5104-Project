@@ -1,0 +1,230 @@
+[{
+  "_id": {
+    "$oid": "65537d5720a377489292b990"
+  },
+  "name": "Condo in Singapore · ★4.63 · 1 bedroom · 1 bed · 1 shared bath",
+  "description": "Fantastic central serviced apartment available in the heart of Singapore's central business district, Nearby Tanjong Pagar MRT station in the middle of the CBD.<br /><br />Now with new cable TV with included all the latest movies and sports packages, Barclays Premier League (BPL) Rugby, Golf, Tennis etc.. broadcast. <br /><br />And new superfast fibre broadband wifi-internet.<br /><br /><b>The space</b><br />Fantastic central fully serviced apartment available in the heart of Singapore's CBD central business district, nearby Tanjong Pagar MRT station.<br /><br />Double bedroom with shared bathroom for rent in a serviced apartment within the CBD<br /><br />Enjoy a stunning city view from your 40th-floor apartment balcony. <br /><br />The serviced apartment is specially furnished for long or short-stay guests. The rent includes weekly maid-cleaning service, utilities, cable TV with included all the movies and sports Barclays Premier League (BPL) broadcast, superfast fibre broadband wifi-",
+  "neighbourhood_group": "Central Region",
+  "accommodates": 4,
+  "Price": [
+    {
+      "_id": {
+        "$oid": "65537d8320a377489292e949"
+      },
+      "listing_id": 747813,
+      "year": 2023,
+      "month": 11,
+      "price": 119,
+      "minimum_nights": 92,
+      "maximum_nights": 1123,
+      "available": 30
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65537d5720a377489292b991"
+  },
+  "name": "Condo in Singapore · ★4.56 · 1 bedroom · 1 bed · 1 shared bath",
+  "description": "Fantastic central serviced apartment available in the heart of Singapore's central business district, directly above Tanjong Pagar MRT station in the middle of the CBD.<br /><br />Now with new cable TV with included all the latest movies and sports packages, Barclays Premier League (BPL) Rugby, Golf, Tennis etc.. broadcast. <br /><br />And new superfast fiber broadband wifi-internet.<br /><br /><b>The space</b><br />Fantastic central serviced apartment available on in the heart of Singapore's central business district, directly above Tanjong Pagar MRT station.<br /><br />Enjoy a stunning city view from your private balcony.<br /><br />The serviced apartment is specially furnished for long or short-stay guests. The rent includes weekly maid cleaning service, utilities, cable TV with included all the movies and sports Barclays Premier League (BPL) broadcast, and superfast fiber broadband wifi-internet, all furnishings, bed linen, towels, cutlery and kitchen essentials. You do not have to",
+  "neighbourhood_group": "Central Region",
+  "accommodates": 4,
+  "Price": [
+    {
+      "_id": {
+        "$oid": "65537d8320a377489292e956"
+      },
+      "listing_id": 747816,
+      "year": 2023,
+      "month": 11,
+      "price": 119,
+      "minimum_nights": 92,
+      "maximum_nights": 1124,
+      "available": 30
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65537d5720a377489292b995"
+  },
+  "name": "Rental unit in Singapore · ★4.78 · 2 bedrooms · 2 beds · 2 baths",
+  "description": "Perfect sharing space. 2 bedrooms, each have their own private bathroom facilities. Communal living room with kitchenette, suitable for 'light' cooking.<br /><br /><b>The space</b><br />Spacious 2 bedroom apartment, ideal for family or business colleagues to share. Encapsulated in a 1925 traditionally built Singaporean shophouse, above Rabbit Carrot Gun restaurant where guests will enjoy their breakfast.<br /><br /><b>Guest access</b><br />This is a self contained apartment with private access. 2 private bedroom suites with their own private bathroom facilities. Communal living room with kitchenette suitable for 'light' cooking.",
+  "neighbourhood_group": "Central Region",
+  "accommodates": 4,
+  "Price": [
+    {
+      "_id": {
+        "$oid": "65537d8320a377489292ee1b"
+      },
+      "listing_id": 819034,
+      "year": 2023,
+      "month": 11,
+      "price": 300,
+      "minimum_nights": 92,
+      "maximum_nights": 365,
+      "available": 0
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65537d5720a377489292b9a3"
+  },
+  "name": "Townhouse in Singapore · 4 bedrooms · 12 beds · 4 baths",
+  "description": "An old-world sanctuary about 5 mins walk from the Kallang MRT designed to make you pause, think, and regain your centre. We are a Christian retreat house dedicated to mission, formation and service for the common good.<br /><br /><b>The space</b><br />What makes your stay with us unique? Will it be our friendly staff, freshly baked breads, shabbat soups, a safe and caring oasis in the midst of the madness outside? There is a place where you can find your purpose, discover who you are and have a whole lot of fun with new friends who speak your language.<br /><br /><b>Guest access</b><br />A prayer chapel for quiet reading, meditation and a place to think and reflect yet near enough to the city centre to connect with family and friends. Want to learn how to bake bread, pick up another language, play the piano or guitar, climb a mountain or paint a portrait of yourself, - possibilities are endless at the Secret Gardens 5:00am where sun, air, water and a good night's sleep all conspire tog",
+  "neighbourhood_group": "Central Region",
+  "accommodates": 8,
+  "Price": [
+    {
+      "_id": {
+        "$oid": "65537d8320a37748929302df"
+      },
+      "listing_id": 1581224,
+      "year": 2023,
+      "month": 11,
+      "price": 130,
+      "minimum_nights": 96,
+      "maximum_nights": 1125,
+      "available": 30
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65537d5720a377489292b9a6"
+  },
+  "name": "Bed and breakfast in Singapore · 1 bedroom · 6 beds · 0 baths",
+  "description": "Our hostel is close to Chinatown. You’ll love Wink because of the Chinatown neighbourhood, it is merely 2 minutes away from the subway yet it is just 1 street away from the noise of the bustling Pagoda Street. You can rest assured of our high standard of cleanliness throughout, our comfy capsule-type beds. Privacy and security are ensured with our keycard access to your room and locker. Wink is ideal for couples, solo adventurers, business travellers, groups and families.<br /><br /><b>The space</b><br />Each custom-made pod is uniquely put together with unmatched features:<br />· Custom-designed and spacious<br />· Sound resistant walls in-between pods<br />· Dedicated ambient backlight that turns on automatically to guide you to your assigned pods, without disturbing others<br />· Adjustable reading LED light for your glare-free reading pleasure<br />· Cushy back-rest<br />· Power socket to charge your gadgets and accessories<br />· Side-ledge and hook for your personal effects<br />",
+  "neighbourhood_group": "Central Region",
+  "accommodates": 6,
+  "Price": [
+    {
+      "_id": {
+        "$oid": "65537d8320a377489293051d"
+      },
+      "listing_id": 1678754,
+      "year": 2023,
+      "month": 11,
+      "price": 320.6,
+      "minimum_nights": 92,
+      "maximum_nights": 365,
+      "available": 23
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65537d5720a377489292b9a9"
+  },
+  "name": "Condo in Singapore · ★4.51 · 1 bedroom · 1 bed · 1 shared bath",
+  "description": "Fantastic central serviced apartment available in the heart of Singapore's central business district, directly above Tanjong Pagar MRT station in the middle of the CBD.<br /><br />Now with new cable TV with included all the latest movies and sports packages, Barclays Premier League (BPL) Rugby, Golf, Tennis etc.. broadcast. <br /><br />And new superfast fibre broadband wifi-internet.<br /><br /><b>The space</b><br />Fantastic central serviced apartment available in the heart of Singapore's central business district, directly above Tanjong Pagar MRT station.<br /><br />Double bedroom with shared bathroom for rent in a serviced apartment with in the CBD.<br /><br />Enjoy a stunning city view from the 40th floor apartment balcony.<br /><br />The serviced apartment is specially furnished for long or short-stay guests. The rent includes weekly maid-cleaning service, utilities,cable TV with included all the movies and sports Barclays Premier League (BPL) broadcast, and superfast fiber broadb",
+  "neighbourhood_group": "Central Region",
+  "accommodates": 4,
+  "Price": [
+    {
+      "_id": {
+        "$oid": "65537d8420a3774892930bbe"
+      },
+      "listing_id": 1941719,
+      "year": 2023,
+      "month": 11,
+      "price": 119,
+      "minimum_nights": 92,
+      "maximum_nights": 1123,
+      "available": 30
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65537d5720a377489292b9b7"
+  },
+  "name": "Hostel in Singapore · ★3.94 · 1 bedroom · 12 beds · 4 baths",
+  "description": "Ideally located steps away from Chinatown MRT Station. Find a wide range of local food and shopping at your fingertips. There are also many money changers and tour agencies in this area. <br /><br />> 4 stops to Orchard Road.<br />> 2 stops to Harbourfront (Sentosa)<br />> 2 stops from Little India<br />> 3 stops to Marina Bay Sands.<br />> An easy stroll to nightlife of Clarke Quay (1 stop).<br /><br />* CONTACT US DROP TO ENQUIRE ABOUT FEMALE DORMS OR PRIVATE ROOMS. We respond within 12 hours. *<br /><br /><b>The space</b><br />Our Mixed Dormitory has 12/13 beds. Your bed has a charging point and bed light. A personal locker is provided for your valuables. (Do bring along your own padlock). Shower gel/shampoo and toilet paper provided. Laundry service is available for a fee. <br /><br />Complimentary coffee & tea during reception hours. Complimentary cereal and toast during breakfast hours (8am to 1030am). Hot and cold water dispenser. <br /><br />Same-day luggage storage for early c",
+  "neighbourhood_group": "Central Region",
+  "accommodates": 12,
+  "Price": [
+    {
+      "_id": {
+        "$oid": "65537d8420a3774892933727"
+      },
+      "listing_id": 3717196,
+      "year": 2023,
+      "month": 11,
+      "price": 31.33,
+      "minimum_nights": 92,
+      "maximum_nights": 1125,
+      "available": 30
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65537d5720a377489292b9b9"
+  },
+  "name": "Hostel in Singapore · ★4.40 · 1 bedroom · 12 beds · 4 baths",
+  "description": "We are located next to Chinatown MRT Station with food and shopping all around. Chinatown’s famous Food Street, an easy 5-minute walk away. There are also many money changers and tour agencies around our vicinity.<br /><br />Enjoy a boutique-sized hostel experience with cosy dorms and comfortable beds, daily breakfast (offsite) and complimentary Wi-Fi.<br /><br />~~ CHECK OUT OUR OTHER LISTINGS OR DROP US AN ENQUIRY FOR AVAILABILITY OF FEMALE DORMS OR PRIVATE ROOMS ~~<br /><br /><b>The space</b><br />Your bed has a charging point and bed light. A personal locker is provided for your valuables. Please bring along your own padlock. Shower gel/shampoo and toilet paper provided. Laundry service is available for a fee. <br /><br />Complimentary coffee & tea during reception hours. Hot and cold water dispenser. Daily breakfast of cereal and toast is offered from 8am to 1030am.<br /><br />Same-day luggage storage for early check-ins and late check-outs, at no charge.<br /><br />Please note we",
+  "neighbourhood_group": "Central Region",
+  "accommodates": 12,
+  "Price": [
+    {
+      "_id": {
+        "$oid": "65537d8420a377489293414c"
+      },
+      "listing_id": 4054698,
+      "year": 2023,
+      "month": 11,
+      "price": 31.33,
+      "minimum_nights": 92,
+      "maximum_nights": 1125,
+      "available": 30
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65537d5720a377489292b9ba"
+  },
+  "name": "Hostel in Singapore · ★4.35 · 1 bedroom · 12 beds · 4 baths",
+  "description": "Ideally located steps away from Chinatown MRT Station. Find a wide range of local food and shopping at your fingertips. There are also many money changers and tour agencies in this area. Complimentary wi-fi and daily local breakfast (food only) is included.<br /><br />> 4 stops to Orchard Road.<br />> 2 stops to Harbourfront (Vivocity and Sentosa)<br />> 2 stops from Little India<br />> 3 stops to Marina Bay Sands.<br />> A short walk to vibrant nightlife of Clarke Quay <br /><br />* We also have FEMALE DORMS & PRIVATE ROOMS. *<br /><br /><b>The space</b><br />Your bed has a charging point and bed light. A personal locker is provided for your valuables. Please bring along your own padlock. Shower gel/shampoo and toilet paper provided. Laundry service is available for a fee. <br /><br />Complimentary coffee & tea during reception hours. Hot and cold water dispenser. Daily breakfast of toast and cereal is offered from 8am to 1030am.<br /><br />Same-day luggage storage for early check-ins",
+  "neighbourhood_group": "Central Region",
+  "accommodates": 12,
+  "Price": [
+    {
+      "_id": {
+        "$oid": "65537d8420a37748929341dd"
+      },
+      "listing_id": 4069756,
+      "year": 2023,
+      "month": 11,
+      "price": 31.33,
+      "minimum_nights": 92,
+      "maximum_nights": 1125,
+      "available": 30
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65537d5720a377489292b9db"
+  },
+  "name": "Rental unit in Singapore · 5 bedrooms · 5 beds · 4 baths",
+  "description": "The Sail @ Marina Bay is the new icon set at the skyline of Marina Bay, which is located in Marina Boulevard. It is considered a 6-star waterfront lifestyle condominium.",
+  "neighbourhood_group": "Central Region",
+  "accommodates": 9,
+  "Price": [
+    {
+      "_id": {
+        "$oid": "65537d8420a37748929371f2"
+      },
+      "listing_id": 5698633,
+      "year": 2023,
+      "month": 11,
+      "price": 720,
+      "minimum_nights": 92,
+      "maximum_nights": 1125,
+      "available": 30
+    }
+  ]
+}]
