@@ -1,0 +1,105 @@
+[{
+  "_id": {
+    "$oid": "65537d5720a377489292ba16"
+  },
+  "id": 8200542,
+  "name": "Condo in Singapore · ★4.45 · 3 bedrooms · 4 beds · 2 baths",
+  "Price": [
+    {
+      "_id": {
+        "$oid": "65537d8520a377489293bb37"
+      },
+      "listing_id": 8200542,
+      "year": 2024,
+      "month": 5,
+      "price": 265.81,
+      "minimum_nights": 92,
+      "maximum_nights": 365,
+      "available": 31
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65537d5720a377489292ba1a"
+  },
+  "id": 8277151,
+  "name": "Serviced apartment in Orchard  · ★4.71 · Studio · 2 beds · 1 bath",
+  "Price": [
+    {
+      "_id": {
+        "$oid": "65537d8520a377489293bcef"
+      },
+      "listing_id": 8277151,
+      "year": 2024,
+      "month": 5,
+      "price": 288,
+      "minimum_nights": 6,
+      "maximum_nights": 1125,
+      "available": 31
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65537d5720a377489292ba5c"
+  },
+  "id": 10399199,
+  "name": "Condo in Singapore · ★4.94 · 2 bedrooms · 2 beds · 1 bath",
+  "Price": [
+    {
+      "_id": {
+        "$oid": "65537d8620a3774892940862"
+      },
+      "listing_id": 10399199,
+      "year": 2024,
+      "month": 5,
+      "price": 246,
+      "minimum_nights": 92,
+      "maximum_nights": 1125,
+      "available": 31
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65537d5720a377489292ba92"
+  },
+  "id": 13454638,
+  "name": "Rental unit in Singapore · ★4.29 · 3 bedrooms · 3 beds · 2.5 baths",
+  "Price": [
+    {
+      "_id": {
+        "$oid": "65537d8620a3774892944fb7"
+      },
+      "listing_id": 13454638,
+      "year": 2024,
+      "month": 5,
+      "price": 201,
+      "minimum_nights": 92,
+      "maximum_nights": 360,
+      "available": 0
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65537d5720a377489292bbaf"
+  },
+  "id": 22233862,
+  "name": "Home in Singapore · ★4.81 · 1 bedroom · 2 beds · 2 shared baths",
+  "Price": [
+    {
+      "_id": {
+        "$oid": "65537d8820a377489295361b"
+      },
+      "listing_id": 22233862,
+      "year": 2024,
+      "month": 5,
+      "price": 95,
+      "minimum_nights": 92,
+      "maximum_nights": 1125,
+      "available": 0
+    }
+  ]
+}]

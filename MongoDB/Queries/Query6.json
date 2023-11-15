@@ -1,103 +1,516 @@
 [{
   "_id": {
-    "$oid": "65537d5720a377489292ba16"
+    "$oid": "65537d5320a37748929220aa"
   },
-  "id": 8200542,
-  "name": "Condo in Singapore · ★4.45 · 3 bedrooms · 4 beds · 2 baths",
+  "id": 562683,
+  "name": "Rental unit in Wan Chai · ★4.43 · 1 bedroom · 8 beds · 3 shared baths",
+  "instant_bookable": true,
   "Price": [
     {
       "_id": {
-        "$oid": "65537d8520a377489293bb37"
+        "$oid": "65537d8320a377489292e199"
       },
-      "listing_id": 8200542,
+      "listing_id": 562683,
       "year": 2024,
-      "month": 5,
-      "price": 265.81,
-      "minimum_nights": 92,
-      "maximum_nights": 365,
-      "available": 31
-    }
-  ]
-},
-{
-  "_id": {
-    "$oid": "65537d5720a377489292ba1a"
-  },
-  "id": 8277151,
-  "name": "Serviced apartment in Orchard  · ★4.71 · Studio · 2 beds · 1 bath",
-  "Price": [
-    {
-      "_id": {
-        "$oid": "65537d8520a377489293bcef"
-      },
-      "listing_id": 8277151,
-      "year": 2024,
-      "month": 5,
-      "price": 288,
-      "minimum_nights": 6,
+      "month": 1,
+      "price": 44.54,
+      "minimum_nights": 1,
       "maximum_nights": 1125,
       "available": 31
-    }
-  ]
-},
-{
-  "_id": {
-    "$oid": "65537d5720a377489292ba5c"
-  },
-  "id": 10399199,
-  "name": "Condo in Singapore · ★4.94 · 2 bedrooms · 2 beds · 1 bath",
-  "Price": [
+    },
     {
       "_id": {
-        "$oid": "65537d8620a3774892940862"
+        "$oid": "65537d8320a377489292e19b"
       },
-      "listing_id": 10399199,
+      "listing_id": 562683,
       "year": 2024,
-      "month": 5,
-      "price": 246,
-      "minimum_nights": 92,
+      "month": 3,
+      "price": 46.61,
+      "minimum_nights": 1,
       "maximum_nights": 1125,
       "available": 31
+    },
+    {
+      "_id": {
+        "$oid": "65537d8320a377489292e19e"
+      },
+      "listing_id": 562683,
+      "year": 2024,
+      "month": 6,
+      "price": 39.99,
+      "minimum_nights": 1,
+      "maximum_nights": 1125,
+      "available": 30
+    },
+    {
+      "_id": {
+        "$oid": "65537d8320a377489292e19f"
+      },
+      "listing_id": 562683,
+      "year": 2024,
+      "month": 7,
+      "price": 35.59,
+      "minimum_nights": 1,
+      "maximum_nights": 1125,
+      "available": 31
+    },
+    {
+      "_id": {
+        "$oid": "65537d8320a377489292e1a0"
+      },
+      "listing_id": 562683,
+      "year": 2024,
+      "month": 8,
+      "price": 37.04,
+      "minimum_nights": 1,
+      "maximum_nights": 1125,
+      "available": 31
+    },
+    {
+      "_id": {
+        "$oid": "65537d8320a377489292e1a1"
+      },
+      "listing_id": 562683,
+      "year": 2024,
+      "month": 9,
+      "price": 35.78,
+      "minimum_nights": 1,
+      "maximum_nights": 1125,
+      "available": 15
     }
   ]
 },
 {
   "_id": {
-    "$oid": "65537d5720a377489292ba92"
+    "$oid": "65537d5320a37748929220ab"
   },
-  "id": 13454638,
-  "name": "Rental unit in Singapore · ★4.29 · 3 bedrooms · 3 beds · 2.5 baths",
+  "id": 562808,
+  "name": "Rental unit in Wan Chai · ★4.44 · 1 bedroom · 8 beds · 2 shared baths",
+  "instant_bookable": true,
   "Price": [
     {
       "_id": {
-        "$oid": "65537d8620a3774892944fb7"
+        "$oid": "65537d8320a377489292e1a6"
       },
-      "listing_id": 13454638,
+      "listing_id": 562808,
+      "year": 2024,
+      "month": 1,
+      "price": 44.54,
+      "minimum_nights": 1,
+      "maximum_nights": 1125,
+      "available": 31
+    },
+    {
+      "_id": {
+        "$oid": "65537d8320a377489292e1a8"
+      },
+      "listing_id": 562808,
+      "year": 2024,
+      "month": 3,
+      "price": 46.61,
+      "minimum_nights": 1,
+      "maximum_nights": 1125,
+      "available": 31
+    },
+    {
+      "_id": {
+        "$oid": "65537d8320a377489292e1ab"
+      },
+      "listing_id": 562808,
+      "year": 2024,
+      "month": 6,
+      "price": 39.99,
+      "minimum_nights": 1,
+      "maximum_nights": 1125,
+      "available": 30
+    },
+    {
+      "_id": {
+        "$oid": "65537d8320a377489292e1ac"
+      },
+      "listing_id": 562808,
+      "year": 2024,
+      "month": 7,
+      "price": 49.68,
+      "minimum_nights": 1,
+      "maximum_nights": 1125,
+      "available": 31
+    },
+    {
+      "_id": {
+        "$oid": "65537d8320a377489292e1ad"
+      },
+      "listing_id": 562808,
+      "year": 2024,
+      "month": 8,
+      "price": 49.9,
+      "minimum_nights": 1,
+      "maximum_nights": 1125,
+      "available": 31
+    },
+    {
+      "_id": {
+        "$oid": "65537d8320a377489292e1ae"
+      },
+      "listing_id": 562808,
+      "year": 2024,
+      "month": 9,
+      "price": 49.71,
+      "minimum_nights": 1,
+      "maximum_nights": 1125,
+      "available": 15
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65537d5320a37748929220ac"
+  },
+  "id": 562817,
+  "name": "Rental unit in Wan Chai · ★4.43 · 1 bedroom · 8 beds · 3 shared baths",
+  "instant_bookable": true,
+  "Price": [
+    {
+      "_id": {
+        "$oid": "65537d8320a377489292e1b4"
+      },
+      "listing_id": 562817,
+      "year": 2024,
+      "month": 2,
+      "price": 49.26,
+      "minimum_nights": 1,
+      "maximum_nights": 1125,
+      "available": 29
+    },
+    {
+      "_id": {
+        "$oid": "65537d8320a377489292e1b5"
+      },
+      "listing_id": 562817,
+      "year": 2024,
+      "month": 3,
+      "price": 49.34,
+      "minimum_nights": 1,
+      "maximum_nights": 1125,
+      "available": 31
+    },
+    {
+      "_id": {
+        "$oid": "65537d8320a377489292e1b6"
+      },
+      "listing_id": 562817,
+      "year": 2024,
+      "month": 4,
+      "price": 49.24,
+      "minimum_nights": 1,
+      "maximum_nights": 1125,
+      "available": 30
+    },
+    {
+      "_id": {
+        "$oid": "65537d8320a377489292e1b7"
+      },
+      "listing_id": 562817,
       "year": 2024,
       "month": 5,
-      "price": 201,
-      "minimum_nights": 92,
-      "maximum_nights": 360,
+      "price": 49.29,
+      "minimum_nights": 1,
+      "maximum_nights": 1125,
+      "available": 31
+    },
+    {
+      "_id": {
+        "$oid": "65537d8320a377489292e1b8"
+      },
+      "listing_id": 562817,
+      "year": 2024,
+      "month": 6,
+      "price": 49.3,
+      "minimum_nights": 1,
+      "maximum_nights": 1125,
+      "available": 30
+    },
+    {
+      "_id": {
+        "$oid": "65537d8320a377489292e1b9"
+      },
+      "listing_id": 562817,
+      "year": 2024,
+      "month": 7,
+      "price": 49.23,
+      "minimum_nights": 1,
+      "maximum_nights": 1125,
+      "available": 31
+    },
+    {
+      "_id": {
+        "$oid": "65537d8320a377489292e1ba"
+      },
+      "listing_id": 562817,
+      "year": 2024,
+      "month": 8,
+      "price": 49.34,
+      "minimum_nights": 1,
+      "maximum_nights": 1125,
+      "available": 31
+    },
+    {
+      "_id": {
+        "$oid": "65537d8320a377489292e1bb"
+      },
+      "listing_id": 562817,
+      "year": 2024,
+      "month": 9,
+      "price": 49.24,
+      "minimum_nights": 1,
+      "maximum_nights": 1125,
+      "available": 15
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65537d5320a37748929220ad"
+  },
+  "id": 562840,
+  "name": "Rental unit in Wan Chai · ★4.52 · 1 bedroom · 8 beds · 3 shared baths",
+  "instant_bookable": true,
+  "Price": [
+    {
+      "_id": {
+        "$oid": "65537d8320a377489292e1c0"
+      },
+      "listing_id": 562840,
+      "year": 2024,
+      "month": 1,
+      "price": 44.54,
+      "minimum_nights": 1,
+      "maximum_nights": 1125,
+      "available": 31
+    },
+    {
+      "_id": {
+        "$oid": "65537d8320a377489292e1c2"
+      },
+      "listing_id": 562840,
+      "year": 2024,
+      "month": 3,
+      "price": 46.61,
+      "minimum_nights": 1,
+      "maximum_nights": 1125,
+      "available": 31
+    },
+    {
+      "_id": {
+        "$oid": "65537d8320a377489292e1c5"
+      },
+      "listing_id": 562840,
+      "year": 2024,
+      "month": 6,
+      "price": 39.99,
+      "minimum_nights": 1,
+      "maximum_nights": 1125,
+      "available": 30
+    },
+    {
+      "_id": {
+        "$oid": "65537d8320a377489292e1c6"
+      },
+      "listing_id": 562840,
+      "year": 2024,
+      "month": 7,
+      "price": 49.23,
+      "minimum_nights": 1,
+      "maximum_nights": 1125,
+      "available": 31
+    },
+    {
+      "_id": {
+        "$oid": "65537d8320a377489292e1c7"
+      },
+      "listing_id": 562840,
+      "year": 2024,
+      "month": 8,
+      "price": 49.34,
+      "minimum_nights": 1,
+      "maximum_nights": 1125,
+      "available": 31
+    },
+    {
+      "_id": {
+        "$oid": "65537d8320a377489292e1c8"
+      },
+      "listing_id": 562840,
+      "year": 2024,
+      "month": 9,
+      "price": 49.24,
+      "minimum_nights": 1,
+      "maximum_nights": 1125,
+      "available": 15
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65537d5320a37748929220b4"
+  },
+  "id": 645404,
+  "name": "Hostel in Hong Kong · ★4.64 · 1 bedroom · 1 bed · 2.5 shared baths",
+  "instant_bookable": true,
+  "Price": [
+    {
+      "_id": {
+        "$oid": "65537d8320a377489292e54a"
+      },
+      "listing_id": 645404,
+      "year": 2023,
+      "month": 9,
+      "price": 45.3,
+      "minimum_nights": 1,
+      "maximum_nights": 163.57142857142858,
+      "available": 9
+    },
+    {
+      "_id": {
+        "$oid": "65537d8320a377489292e54b"
+      },
+      "listing_id": 645404,
+      "year": 2023,
+      "month": 10,
+      "price": 45.3,
+      "minimum_nights": 1,
+      "maximum_nights": 329.16129032258067,
+      "available": 17
+    },
+    {
+      "_id": {
+        "$oid": "65537d8320a377489292e54c"
+      },
+      "listing_id": 645404,
+      "year": 2023,
+      "month": 11,
+      "price": 45.3,
+      "minimum_nights": 1,
+      "maximum_nights": 228.16666666666666,
+      "available": 24
+    },
+    {
+      "_id": {
+        "$oid": "65537d8320a377489292e54d"
+      },
+      "listing_id": 645404,
+      "year": 2023,
+      "month": 12,
+      "price": 45.3,
+      "minimum_nights": 1,
+      "maximum_nights": 1125,
       "available": 0
-    }
-  ]
-},
-{
-  "_id": {
-    "$oid": "65537d5720a377489292bbaf"
-  },
-  "id": 22233862,
-  "name": "Home in Singapore · ★4.81 · 1 bedroom · 2 beds · 2 shared baths",
-  "Price": [
+    },
     {
       "_id": {
-        "$oid": "65537d8820a377489295361b"
+        "$oid": "65537d8320a377489292e54e"
       },
-      "listing_id": 22233862,
+      "listing_id": 645404,
+      "year": 2024,
+      "month": 1,
+      "price": 45.3,
+      "minimum_nights": 1,
+      "maximum_nights": 1125,
+      "available": 0
+    },
+    {
+      "_id": {
+        "$oid": "65537d8320a377489292e54f"
+      },
+      "listing_id": 645404,
+      "year": 2024,
+      "month": 2,
+      "price": 45.3,
+      "minimum_nights": 1,
+      "maximum_nights": 1125,
+      "available": 0
+    },
+    {
+      "_id": {
+        "$oid": "65537d8320a377489292e550"
+      },
+      "listing_id": 645404,
+      "year": 2024,
+      "month": 3,
+      "price": 45.3,
+      "minimum_nights": 1,
+      "maximum_nights": 1125,
+      "available": 0
+    },
+    {
+      "_id": {
+        "$oid": "65537d8320a377489292e551"
+      },
+      "listing_id": 645404,
+      "year": 2024,
+      "month": 4,
+      "price": 45.3,
+      "minimum_nights": 1,
+      "maximum_nights": 1125,
+      "available": 0
+    },
+    {
+      "_id": {
+        "$oid": "65537d8320a377489292e552"
+      },
+      "listing_id": 645404,
       "year": 2024,
       "month": 5,
-      "price": 95,
-      "minimum_nights": 92,
+      "price": 45.3,
+      "minimum_nights": 1,
+      "maximum_nights": 1125,
+      "available": 0
+    },
+    {
+      "_id": {
+        "$oid": "65537d8320a377489292e553"
+      },
+      "listing_id": 645404,
+      "year": 2024,
+      "month": 6,
+      "price": 45.3,
+      "minimum_nights": 1,
+      "maximum_nights": 1125,
+      "available": 0
+    },
+    {
+      "_id": {
+        "$oid": "65537d8320a377489292e554"
+      },
+      "listing_id": 645404,
+      "year": 2024,
+      "month": 7,
+      "price": 45.3,
+      "minimum_nights": 1,
+      "maximum_nights": 1125,
+      "available": 0
+    },
+    {
+      "_id": {
+        "$oid": "65537d8320a377489292e555"
+      },
+      "listing_id": 645404,
+      "year": 2024,
+      "month": 8,
+      "price": 45.3,
+      "minimum_nights": 1,
+      "maximum_nights": 1125,
+      "available": 0
+    },
+    {
+      "_id": {
+        "$oid": "65537d8320a377489292e556"
+      },
+      "listing_id": 645404,
+      "year": 2024,
+      "month": 9,
+      "price": 45.3,
+      "minimum_nights": 1,
       "maximum_nights": 1125,
       "available": 0
     }
