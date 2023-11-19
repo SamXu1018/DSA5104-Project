@@ -1,29 +1,6 @@
 [{
-  "_id": {
-    "$oid": "65537d5520a3774892926fe3"
-  },
-  "number_of_reviews": 1843,
-  "Host": [
-    {
-      "_id": {
-        "$oid": "6552503b7238d3e85d7e8060"
-      },
-      "host_id": 266755066,
-      "host_name": "The Ridge",
-      "host_since": {
-        "$date": "2019-06-06T00:00:00.000Z"
-      },
-      "host_about": "We are located Lower East Side (LES), the quintessential NYC neighborhood. If you’re looking to experience a part of New York City that is more eclectic, real and a little less touristy, then you’ve picked the right spot. The LES is situated in lower Manhattan - close to Soho and Chinatown and a short commute over to Brooklyn. It’s truly an area worth exploring; it draws a vibrant crowd and carries a cool and artistic vibe.\r\n\r\nFilled with a mix of historical tenement-style buildings, boutique stores, galleries, restaurants and amazing nightlife, you’ll enjoy spending the mornings taking in a great cup of coffee and the evenings dancing the night away. If you love music, food and drink and are looking for a fun urban adventure, then you’ll love this part of the city.",
-      "host_response_time": "within an hour",
-      "host_is_superhost": 0,
-      "host_neighbourhood": "Lower East Side",
-      "host_listings_count": 4,
-      "host_identity_verified": 1,
-      "host_response_rate": 0.97,
-      "host_acceptance_rate": 1,
-      "email": 1,
-      "phone": 1,
-      "work_email": 0
-    }
-  ]
+  "_id": 219517861,
+  "total_reviews": 5552,
+  "host_id": 219517861,
+  "host_name": "Sonder (NYC)"
 }]

@@ -1,9 +1,7 @@
 [{
-  "_id": {
-    "$oid": "65537d5720a377489292ba16"
-  },
   "id": 8200542,
   "name": "Condo in Singapore · ★4.45 · 3 bedrooms · 4 beds · 2 baths",
+  "accommodates": 5,
   "Price": [
     {
       "_id": {
@@ -20,11 +18,9 @@
   ]
 },
 {
-  "_id": {
-    "$oid": "65537d5720a377489292ba1a"
-  },
   "id": 8277151,
   "name": "Serviced apartment in Orchard  · ★4.71 · Studio · 2 beds · 1 bath",
+  "accommodates": 4,
   "Price": [
     {
       "_id": {
@@ -41,11 +37,9 @@
   ]
 },
 {
-  "_id": {
-    "$oid": "65537d5720a377489292ba5c"
-  },
   "id": 10399199,
   "name": "Condo in Singapore · ★4.94 · 2 bedrooms · 2 beds · 1 bath",
+  "accommodates": 8,
   "Price": [
     {
       "_id": {
@@ -62,11 +56,9 @@
   ]
 },
 {
-  "_id": {
-    "$oid": "65537d5720a377489292ba92"
-  },
   "id": 13454638,
   "name": "Rental unit in Singapore · ★4.29 · 3 bedrooms · 3 beds · 2.5 baths",
+  "accommodates": 4,
   "Price": [
     {
       "_id": {
@@ -83,11 +75,9 @@
   ]
 },
 {
-  "_id": {
-    "$oid": "65537d5720a377489292bbaf"
-  },
   "id": 22233862,
   "name": "Home in Singapore · ★4.81 · 1 bedroom · 2 beds · 2 shared baths",
+  "accommodates": 4,
   "Price": [
     {
       "_id": {
